@@ -10,7 +10,6 @@
 *.blend filter=lfs diff=lfs merge=lfs -text
 /HTCV_DIRME_file_share_folder/bunny_test_1/Text filter=lfs diff=lfs merge=lfs -text
 *.txt filter=lfs diff=lfs merge=lfs -text
-*.md filter=lfs diff=lfs merge=lfs -text
 *.py filter=lfs diff=lfs merge=lfs -text
 *.xml filter=lfs diff=lfs merge=lfs -text
 /assets/bunny_test_1/Text filter=lfs diff=lfs merge=lfs -text
